@@ -71,7 +71,7 @@ footer{
     grid-row: 5/6;
 }
 
-/*big desktop*/
+/*big desktop and TV*/
 
 @media (min-width:1825px){
     body{
